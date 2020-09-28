@@ -1,0 +1,29 @@
+.carousel__home img {
+	width: 100% !important;
+	max-height: 1000px;
+}
+
+.carousel__caption {
+	text-align: left;
+	bottom: 20%;
+	left: 5%;
+	color: #f1f1f1;
+}
+
+.carousel__caption h3 {
+	font-size: 2.5rem;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.carousel__caption p {
+	font-size: 0.8rem;
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+.btn__caption {
+	border-radius: 50px !important;
+	font-weight: 800;
+	text-transform: uppercase;
+}

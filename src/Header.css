@@ -1,0 +1,18 @@
+.navbar {
+	background-color: red !important;
+}
+
+.navbar__brand {
+	color: #fff !important;
+	font-weight: 600 !important;
+	text-transform: uppercase;
+}
+
+.nav .nav__link {
+	font-size: 1.1rem !important;
+	font-weight: 700;
+	color: #f1f1f1 !important;
+	margin-right: 10px;
+	text-align: center;
+	text-transform: uppercase;
+}
